@@ -3,6 +3,8 @@
 	[
 		"Git",
 		"JsFormat",
+		"SideBarEnhancements",
+		"Split",
 		"SublimeLinter",
 		"Sublimerge"
 	]

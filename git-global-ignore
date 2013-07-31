@@ -1,3 +1,10 @@
+# Set this file as a global ignore using the following command:
+#
+# git config --global core.excludesfile ~/.gitignore
+#
+###########
+
+
 # Compiled source #
 ###################
 *.com
